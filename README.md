@@ -12,7 +12,7 @@ Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Develop
 
 ## 🚀 My Projects
 
-- **[Portfolio](https://www.mohamedhasan.dev)**: Check out my digital art gallery (aka portfolio) for a glimpse of my code masterpieces.
+- **[Portfolio](https://www.mohamedhasan.me)**: Check out my digital art gallery (aka portfolio) for a glimpse of my code masterpieces.
 - **[LinkedIn](https://linkedin.com/in/hasanjr)**: Wanna see the business side of me? Connect on LinkedIn and let's conquer the digital realm together!
 - **[GitHub](https://github.com/mhmdhasan)**: Dive into my coding adventures right here. You never know what you'll discover!
 
