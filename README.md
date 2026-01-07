@@ -30,7 +30,7 @@ Welcome to my GitHub playground! I'm Mohamed Hasan, a Web3 Front End Web Develop
 
 - 📧 **Email**: [mhmdhasan7@outlook.com](mailto:mhmdhasan7@outlook.com)
 - 📞 **Phone**: +201-004-185-132
-- 🌐 **Website**: [mohamedhasan.dev](https://www.mohamedhasan.dev)
+- 🌐 **Website**: [mohamedhasan.me](https://www.mohamedhasan.me)
 - 🌐 **LinkedIn**: [linkedin.com/in/hasanjr](https://linkedin.com/in/hasanjr)
 - 🌐 **GitHub**: [github.com/mhmdhasan](https://github.com/mhmdhasan)
 
